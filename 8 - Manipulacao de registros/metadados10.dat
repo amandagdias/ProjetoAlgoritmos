@@ -1,0 +1,11 @@
+filename: registros.reg
+key要ame: codigo
+key負ype: int
+field要ame: nome
+field負ype: char[80]
+field要ame: tamanho
+field負ype: float
+field要ame: idade
+field負ype: int
+field要ame: cor
+field負ype: char[80]
